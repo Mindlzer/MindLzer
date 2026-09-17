@@ -1,12 +1,39 @@
+<div align="center">
+
 # yo, I'm a vibe coder
 
-I just build stuff. Sometimes it works, sometimes it doesn't, but it always vibes.
+**I don't write code. I negotiate with the compiler.**
 
-Most of my projects are fully vibe coded — no plan, no docs, just opening the editor and seeing what happens. Some are half vibe coded, which means I started with a plan and then gave up on it halfway through.
+<br>
+
+![status](https://img.shields.io/badge/status-lazyness-brightgreen?style=for-the-badge)
+![plan](https://img.shields.io/badge/plan-code-blueviolet?style=for-the-badge)
+![docs](https://img.shields.io/badge/docs-vibes-ff69b4?style=for-the-badge)
+![works](https://img.shields.io/badge/it%20works-idk%20why-orange?style=for-the-badge)
+![readme](https://img.shields.io/badge/this%20readme-vibe%20coded-red?style=for-the-badge)
+
+</div>
+
+---
+
+Most of my projects are **fully vibe coded** — no plan, no docs, just inserting "my" code and praying.
+
+The rest are **half vibe coded** — I started with a plan, then abandoned it halfway and let the vibes take the wheel.
 
 > [!TIP]
 > If it compiles, it ships.
 
-Anyway, that's pretty much it. Enjoy the repos.
+> [!NOTE]
+> Yes, this README is also vibe coded. No, I won't explain how. LOL.
 
-<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/ee19d8b0-ae66-44fb-9a7d-0b5b5f7d6e36" />
+---
+
+### the pipeline
+
+```mermaid
+graph LR
+    A[idea] --> B[vibes]
+    B --> C[code]
+    C --> D{hope}
+    D -->|it works| E[ship it]
+    D -->|it breaks| B
